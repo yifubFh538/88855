@@ -6,6 +6,7 @@ public class student {
      * 上课
      * 做广播体操
      * f（X)=ax+b
+     * 写作业
      */
 
 }
